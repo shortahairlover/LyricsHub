@@ -3,7 +3,7 @@ import Header from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata = {
-  title: 'Lyric Finder',
+  title: 'Lyric Hub',
 }
 
 export default function RootLayout({ children }) {
